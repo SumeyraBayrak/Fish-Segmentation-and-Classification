@@ -49,4 +49,7 @@ This dataset contains 9 types of seafood, each with 1000 original and 1000 augme
 ## Acknowledgments  
 This dataset is based on the work by **Oguzhan Ulucan**, **Diclehan Karakaya**, and **Mehmet Turkan**, titled *"[A Large-Scale Dataset for Fish Segmentation and Classification](https://www.kaggle.com/datasets/crowww/a-large-scale-fish-dataset)."* It was presented at the *2020 Innovations in Intelligent Systems and Applications Conference (ASYU)*, organized by IEEE. Their efforts in creating and sharing this dataset have been invaluable for advancing research in fish segmentation and classification.
 
+## Fish Dataset Classification using ANN
 
+Bu projeye Kaggle üzerinden aşağıdaki linkten ulaşabilirsiniz:  
+[Kaggle - Classifying a Fish Dataset using ANN](https://www.kaggle.com/code/smeyrabayrak/classifying-a-fish-dataset-using-ann)
